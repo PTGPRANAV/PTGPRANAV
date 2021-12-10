@@ -1,4 +1,4 @@
 - HEY GLAD TO SEE YOU HERE
--I AM PRANAV 
--CURRENTLY STUDING IN AIT PUNE
+-I'm Pranav 
+-student at AIT Pune
 
